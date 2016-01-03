@@ -1,0 +1,51 @@
+{
+    "app": {
+        "name": "",
+        "api": {
+            "ver": 1,
+            "cors": {
+            	"urls": []
+            },
+            "key": ""
+        },
+	    "server": {
+	        "host": "",
+	        "port": ""
+	    },
+	    "session": {
+	    	"key": "",
+	    	"secret": ""
+	    }
+    },
+
+    "db": {
+    	"mongodb": {
+    		"host": "",
+    		"port": "",
+    		"name": "",
+    		"user": "",
+    		"pass": ""
+		},
+		"mysql": {
+			"host": "",
+    		"port": "",
+    		"name": "",
+    		"user": "",
+    		"pass": ""
+		},
+		"redis": {
+			"host": "",
+			"port": ""
+		}
+    },
+
+    "mail": {
+    	"provider": "mandrill",
+    	"user": "",
+    	"pass": ""
+    },
+
+    "contributors": [
+        "Aref Mirhosseini <code@arefmirhosseini.com>"
+    ]
+}

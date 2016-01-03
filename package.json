@@ -1,0 +1,30 @@
+{
+  "name": "node-autodeploy",
+  "version": "0.0.1",
+  "description": "autodeploy server with node.js",
+  "private": true,
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arefm/node-autodeploy.git"
+  },
+  "keywords": [
+    "git",
+    "deploy",
+    "autodeploy",
+    "server",
+    "nodejs"
+  ],
+  "author": "Aref Mirhosseini <code@arefmirhosseini.com> (http://arefmirhosseini.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/arefm/node-autodeploy/issues"
+  },
+  "homepage": "https://github.com/arefm/node-autodeploy#readme",
+  "dependencies": {
+    "node-configloader": "^1.5.3"
+  }
+}
