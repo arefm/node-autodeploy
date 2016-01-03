@@ -1,0 +1,2 @@
+# node-autodeploy
+BETA VERSION!
